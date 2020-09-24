@@ -1,0 +1,26 @@
+
+body{
+background-color: rgb(183, 127, 236);
+}
+
+section{
+    background-color: purple;
+    width: 40%;
+    height: 400px;
+    position: absolute;
+    margin-left: 2em;
+  border-radius: 20px;
+  box-shadow: 10px 10px rgb(193, 185, 201);
+  border-style: dashed;
+  border-color: black;
+} 
+img{
+    width: 50%;
+    height: 300px;
+    margin-top: 2.5em;
+    position: absolute;
+margin-left: 1em;
+border-radius: 20px;
+}
+
+
